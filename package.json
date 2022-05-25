@@ -1,0 +1,24 @@
+{
+  "name": "nty-mongodb-connection",
+  "version": "0.0.1",
+  "description": "Node-RED library specific for the newstoyou platform, should not be distributed",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoAlfa7/nty-mongodb-connection.git"
+  },
+  "keywords": [
+    "Node-RED",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Diego Alfaro Sáez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoAlfa7/nty-mongodb-connection/issues"
+  },
+  "homepage": "https://github.com/DiegoAlfa7/nty-mongodb-connection#readme"
+}
